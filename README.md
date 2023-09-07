@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="/assets/banner.png">
+<img src="https://raw.githubusercontent.com/WeslleyS1/WeslleyS1/main/assets/Banner.png">
 
 s
 
