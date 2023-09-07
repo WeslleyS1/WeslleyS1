@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://drive.google.com/file/d/1MFO8bmupdEOV_pfThDugwQ406PiFHetx/view?usp=sharing" />
+<img src="/assets/banner.png">
 
 s
 
