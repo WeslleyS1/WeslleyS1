@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Weslley</h1>
 <h3 align="center">A simple frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weslleys1&label=Profile%20views&color=e00b15&style=flat" alt="weslleys1" /> </p>
+## <p align="left"> <img src="https://komarev.com/ghpvc/?username=weslleys1&label=Profile%20views&color=e00b15&style=flat" alt="weslleys1" /> </p>
 
 - 🔭 I’m currently working on **Portfolio**
 
