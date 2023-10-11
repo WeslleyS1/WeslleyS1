@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/WeslleyS1/WeslleyS1/main/assets/Banner.png">
 
 <h1 align="center">Hi 👋, I'm Weslley</h1>
-<h3 align="center">A simple frontend developer from Brazil</h3>
+<h3 align="center">A Software developer from Brazil</h3>
 
 
 - 🔭 I’m currently working on **Portfolio**
