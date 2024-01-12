@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Javascript and NextJs**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **weslley.s.tech@gmail.com**
 
