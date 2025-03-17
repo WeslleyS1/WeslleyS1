@@ -1,14 +1,12 @@
-<img src="https://raw.githubusercontent.com/WeslleyS1/WeslleyS1/main/assets/Banner.png">
-
 <h1 align="center">Hi 👋, I'm Weslley</h1>
 <h3 align="center">A Software developer from Brazil</h3>
 
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java/Springboot**
 
-- 📫 How to reach me **weslley.s.tech@gmail.com**
+- 📫 How to reach me **weslley.s.ireland@gmail.com**
 
 - ⚡ Fun fact **I try to be cool and fun. :v**
 
